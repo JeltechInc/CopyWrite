@@ -86,3 +86,13 @@ h1 {
 	height: 400px;
 	padding-top: 50px;
 }
+
+#current{
+	color: red;
+	transition-duration: 0.3s;
+}
+
+#current:hover {
+	color: black;
+}
+
